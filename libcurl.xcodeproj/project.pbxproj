@@ -1465,9 +1465,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CD8AE2B316187F770095DC1B /* libcurl */ = {
+		CD8AE2B316187F770095DC1B /* curl */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CD8AE2C216187F770095DC1B /* Build configuration list for PBXNativeTarget "libcurl" */;
+			buildConfigurationList = CD8AE2C216187F770095DC1B /* Build configuration list for PBXNativeTarget "curl" */;
 			buildPhases = (
 				CD8AE2B016187F770095DC1B /* Sources */,
 				CD8AE2B116187F770095DC1B /* Frameworks */,
@@ -1477,7 +1477,7 @@
 			);
 			dependencies = (
 			);
-			name = libcurl;
+			name = curl;
 			productName = libcurl;
 			productReference = CD8AE2B416187F770095DC1B /* liblibcurl.a */;
 			productType = "com.apple.product-type.library.static";
@@ -1503,7 +1503,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CD8AE2B316187F770095DC1B /* libcurl */,
+				CD8AE2B316187F770095DC1B /* curl */,
 			);
 		};
 /* End PBXProject section */
@@ -1754,7 +1754,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CD8AE2C216187F770095DC1B /* Build configuration list for PBXNativeTarget "libcurl" */ = {
+		CD8AE2C216187F770095DC1B /* Build configuration list for PBXNativeTarget "curl" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CD8AE2C316187F770095DC1B /* Debug */,
