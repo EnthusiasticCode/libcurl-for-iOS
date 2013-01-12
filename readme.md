@@ -1,8 +1,8 @@
-* libcurl for iOS
+# libcurl for iOS
 
-This project is a very raugh compilation of an old relise of [libcurl](http://curl.haxx.se/libcurl/) for iOS. It may one day updated to use the actual [libcurl repository](https://github.com/bagder/curl).
+This project is a very raugh compilation of an old relise (Version 7.27.0) of [libcurl](http://curl.haxx.se/libcurl/) for iOS. It may one day updated to use the actual [libcurl repository](https://github.com/bagder/curl).
 
-** Build instruction
+## Build instruction
 
 In the curl directory execute:
 
